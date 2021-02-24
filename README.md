@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm NazmuIslam </h1>
+<h1 align="center"> Hi 👋, I'm Nazmu Islam </h1>
 <h3 align="center">Im Programmer and Django and React Developer from Bangladesh :bangladesh:</h3>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Microscopic Image Processing**
 
-- 👨‍💻 All of my projects are available at [https://jhossain.me/](https://jhossain.me/)
+- 👨‍💻 All of my projects are available at [https://nhossian.me/](https://nhossain.me/)
 
-- 📝 I regulary write articles on [https://jhossain.me/](https://jhossain.me/)
+- 📝 I regulary write articles on [https://nhossain.me/](https://nhossain.me/)
 
-- 💬 Ask me about **Python, Bioinformatics & Data Analysis**
+- 💬 Ask me about **Python ,JS, Django & ReactJ S**
 
-- 📫 How to reach me **jubayer@hdrobd.org**
+- 📫 How to reach me **nazmulhossain.qnh@gmail.com**
 
